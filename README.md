@@ -4,8 +4,6 @@
   <img src="path-to-animation-or-gif" alt="Developer animation or gif" width="100%" />
 </div>
 
----
-
 <div align="center">
   
 ### **Habari! Mimi ni Themba**
@@ -41,5 +39,4 @@ I write code.
 <a href="https://git-scm.com/" style="margin:2px;"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
 
 </div>
----
 

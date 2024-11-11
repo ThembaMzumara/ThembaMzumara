@@ -35,25 +35,35 @@ I'm **Themba Mzumara**, a software developer passionate about building impactful
 - **Backend Frameworks**:  
   ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) 
   ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 ---
 
 ### 💾 Databases & Data Management
 - **SQL**:  
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 - **NoSQL**:  
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
   ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
+- **Object-Relational Mapping (ORMs)**:  
+  ![Mongoose](https://img.shields.io/badge/-Mongoose-47A248?style=flat&logo=mongodb&logoColor=white) 
+  ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white) 
+  ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white) 
+  ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
+
 ---
 
+<!--
 ### ☁️ Cloud & Hosting
 - **Firebase**:  
   ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) Hosting and Realtime Database
 
 - **Salesforce**:  
   ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white) Admin configuration and basics in Lightning Web Components
+-->
 
 ---
 
@@ -74,6 +84,7 @@ I'm **Themba Mzumara**, a software developer passionate about building impactful
 
 ---
 
+<!--
 ### 🔧 Additional Skills
 - **Protocols & Standards**:  
   ![HL7](https://img.shields.io/badge/-HL7-F05A24?style=flat) 
@@ -82,13 +93,10 @@ I'm **Themba Mzumara**, a software developer passionate about building impactful
 - **Miscellaneous**:  
   ![DHIS2](https://img.shields.io/badge/-DHIS2-1E73BE?style=flat&logo=dhis2&logoColor=white) 
   ![OpenHIE](https://img.shields.io/badge/-OpenHIE-003366?style=flat)
+-->
 
 ---
 
 ### 🌱 Currently Exploring
-- **TypeScript**:  
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) Transitioning existing projects and new codebases
-
 - **Salesforce**:  
   ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white) Expanding into administrative certifications
-

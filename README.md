@@ -27,6 +27,7 @@ I'm **Themba Mzumara**, a software developer passionate about building impactful
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
   ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
 - **API Development**:  
   ![REST](https://img.shields.io/badge/-REST-005571?style=flat&logo=rest&logoColor=white)

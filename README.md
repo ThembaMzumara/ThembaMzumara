@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="path-to-animation-or-gif" alt="Developer animation or gif" width="100%" />
+  <img src="path-to-animation-or-gif" alt="..." width="100%" />
 </div>
 
 <div align="center">
@@ -8,9 +8,9 @@
   
 # 👋 Welcome!
 
-### **Hi there! I’m Themba Mzumara**
+### **Hi there! I’m Themba**
 
-A software developer passionate about creating impactful digital experiences. Skilled in both frontend and backend technologies, I love combining design and logic to build scalable, user-centered applications.
+I write code.
 
 </div>
 

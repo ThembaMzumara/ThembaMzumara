@@ -1,103 +1,40 @@
-## Hi there 👋
+# 👋 Welcome!
 
-I'm **Themba Mzumara**, a software developer passionate about building impactful digital experiences. With a strong foundation in both frontend and backend technologies, I bring versatile skills to the table — from UI/UX design to server-side logic. Here’s a glimpse of my tech stack:
+<div align="center">
 
----
+### **Hi there! I’m Themba Mzumara**
 
-### 🖥️ Frontend Development
-- **JavaScript Frameworks & Libraries**:  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) 
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+A software developer passionate about creating impactful digital experiences. Skilled in both frontend and backend technologies, I love combining design and logic to build scalable, user-centered applications.
 
-- **Styling & UI Libraries**:  
-  ![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat&logo=antdesign&logoColor=white) 
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) 
-  ![Shadcn](https://img.shields.io/badge/-Shadcn-4A4A4A?style=flat)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-- **State Management**:  
-  ![React Context API](https://img.shields.io/badge/-React%20Context-61DAFB?style=flat&logo=react&logoColor=black) 
-  ![Vuex](https://img.shields.io/badge/-Vuex-4FC08D?style=flat&logo=vuex&logoColor=white)
+</div>
 
 ---
 
-### ⚙️ Backend Development
-- **Server-Side Languages**:  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-
-- **API Development**:  
-  ![REST](https://img.shields.io/badge/-REST-005571?style=flat&logo=rest&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-
-- **Backend Frameworks**:  
-  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) 
-  ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+<div align="center">
+  <img src="path-to-animation-or-gif" alt="Developer animation or gif" width="100%" />
+</div>
 
 ---
 
-### 💾 Databases & Data Management
-- **SQL**:  
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<div align="center">
 
-- **NoSQL**:  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+### ⚒️ Tech Stack
 
-- **Object-Relational Mapping (ORMs)**:  
-  ![Mongoose](https://img.shields.io/badge/-Mongoose-47A248?style=flat&logo=mongodb&logoColor=white) 
-  ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white) 
-  ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white) 
-  ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
+<!-- Use horizontal alignment with icons only (no text) -->
 
----
+<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
+<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
+<a href="https://vuejs.org/"><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" /></a>
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a>
+<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
+<a href="https://graphql.org/"><img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /></a>
+<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+<a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></a>
+<a href="https://webpack.js.org/"><img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" /></a>
+<a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
 
-<!--
-### ☁️ Cloud & Hosting
-- **Firebase**:  
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) Hosting and Realtime Database
-
-- **Salesforce**:  
-  ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white) Admin configuration and basics in Lightning Web Components
--->
-
----
-
-### 🚀 DevOps & Tooling
-- **Version Control**:  
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-- **Build Tools**:  
-  ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black) 
-  ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-
-- **Package Managers**:  
-  ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white) 
-  ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
-
-- **Project Management**:  
-  ![Nx Monorepo](https://img.shields.io/badge/-Nx%20Monorepo-143055?style=flat&logo=nrwl&logoColor=white)
-
----
-
-<!--
-### 🔧 Additional Skills
-- **Protocols & Standards**:  
-  ![HL7](https://img.shields.io/badge/-HL7-F05A24?style=flat) 
-  ![FHIR](https://img.shields.io/badge/-FHIR-FF7A59?style=flat)
-
-- **Miscellaneous**:  
-  ![DHIS2](https://img.shields.io/badge/-DHIS2-1E73BE?style=flat&logo=dhis2&logoColor=white) 
-  ![OpenHIE](https://img.shields.io/badge/-OpenHIE-003366?style=flat)
--->
-
----
-
-### 🌱 Currently Exploring
-- **Salesforce**:  
-  ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white) Expanding into administrative certifications
+</div>

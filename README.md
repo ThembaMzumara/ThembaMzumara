@@ -1,56 +1,43 @@
-![👋 Hi, my name is Themba Mzumara](https://your-image-url.gif)
-
-![Profile views](https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20views&color=0e75b6&style=flat)
-
-<div id="toc">
-  <ul align="left" style="list-style: none">
-    <summary>
-      <h1>
-        👋 **Habari! Mimi ni Themba**
-      </h1>
-    </summary>
-  </ul>
+<div align="center">
+  <img src="path-to-animation-or-gif" alt="Developer animation or gif" width="100%" />
 </div>
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left">
-  <a href="https://www.linkedin.com/in/themba-mzumara" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
-  </a>
-  <a href="https://github.com/yourgithubusername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px">
-  </a>
-  <a href="https://twitter.com/yourtwitterusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px">
-  </a>
-</p>
+<div align="center">
 
- **<h3 align="left">🚀 I'm a Full Stack Developer and a Software Engineer</h3>**
+---
+  
+# 👋 Welcome!
 
- **<h3 align="left">Skills</h3>**
+### **Hi there! I’m Themba Mzumara**
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" style="margin-right: 4px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" style="margin-right: 4px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" style="margin-right: 4px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="32" alt="Node.js" style="margin-right: 4px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="32" alt="MongoDB" style="margin-right: 4px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" alt="Express.js" style="margin-right: 4px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="32" alt="Firebase" style="margin-right: 4px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" style="margin-right: 4px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="32" alt="GitHub" style="margin-right: 4px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker" style="margin-right: 4px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="32" alt="Tailwind CSS" style="margin-right: 4px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="VSCode" style="margin-right: 4px">
+A software developer passionate about creating impactful digital experiences. Skilled in both frontend and backend technologies, I love combining design and logic to build scalable, user-centered applications.
+
 </div>
 
-**<h3 align="left">GitHub Stats</h3>**
+---
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&hide_title=true&count_private=true&hide=prs)
+<div align="center">
 
-**<h3 align="left">Buy Me a Coffee ☕</h3>**
+### ⚒️ Tech Stack
 
-<a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" width="200" height="50">
-</a>
+<!-- Use horizontal alignment with icons and tool names, 2px margin added around each badge -->
 
+<a href="https://reactjs.org/" style="margin:2px;"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
+<a href="https://nextjs.org/" style="margin:2px;"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
+<a href="https://vuejs.org/" style="margin:2px;"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" /></a>
+<a href="https://nodejs.org/" style="margin:2px;"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
+<a href="https://expressjs.com/" style="margin:2px;"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /></a>
+<a href="https://www.python.org/" style="margin:2px;"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+<a href="https://dotnet.microsoft.com/" style="margin:2px;"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /></a>
+<a href="https://graphql.org/" style="margin:2px;"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /></a>
+<a href="https://www.postgresql.org/" style="margin:2px;"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+<a href="https://www.mongodb.com/" style="margin:2px;"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+<a href="https://firebase.google.com/" style="margin:2px;"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
+<a href="https://typescriptlang.org/" style="margin:2px;"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+<a href="https://www.ubuntu.com/" style="margin:2px;"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" /></a>
+<a href="https://github.com/" style="margin:2px;"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://webpack.js.org/" style="margin:2px;"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" /></a>
+<a href="https://vitejs.dev/" style="margin:2px;"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /></a>
+<a href="https://git-scm.com/" style="margin:2px;"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+
+</div>

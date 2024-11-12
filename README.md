@@ -8,7 +8,7 @@
 
 ### **Hi, I’m Themba**
 
-Full Stack Developer, Software Engineer .
+### Software Engineer, Full Stack Developer, Cloud Enthusiast.
 
 </div>
 

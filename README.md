@@ -6,9 +6,9 @@
 
 # 👋 Welcome!
 
-### **Hi there! I’m Themba**
+### **Hi, I’m Themba**
 
-I write code.
+Full Stack Developer, Software Engineer .
 
 </div>
 

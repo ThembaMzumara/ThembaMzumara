@@ -38,7 +38,6 @@
 
 ### 🛠️ DevOps Tools
 
-<!--
 <a href="https://aws.amazon.com/" style="margin:2px;"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /></a>
 <a href="https://azure.microsoft.com/" style="margin:2px;"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" /></a>
 <a href="https://cloud.google.com/" style="margin:2px;"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" /></a>
@@ -50,7 +49,27 @@
 <a href="https://www.ansible.com/" style="margin:2px;"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" /></a>
 <a href="https://grafana.com/" style="margin:2px;"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /></a>
 <a href="https://prometheus.io/" style="margin:2px;"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" /></a>
--->
 
 </div>
 
+<div align="left">
+
+### 🌐 Connect with Me
+
+<a href="https://linkedin.com/in/your-profile" style="margin:2px;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/your-profile" style="margin:2px;"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:your-email@example.com" style="margin:2px;"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://twitter.com/your-profile" style="margin:2px;"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+
+</div>
+
+<div align="left">
+
+### ⚡ Rapid Fire
+
+- 🌍 **Located in:** Lilongwe, Malawi.
+- 🌱 **Currently Learning:** Advanced Salesforce administration, MEGA_PACK components.
+- 🔄 **Development Motto:** "Fuck it, we ball." 👌
+- 🎮 **Hobbies:** Chess, Traveling, Stargazing.
+
+</div>

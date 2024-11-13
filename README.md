@@ -30,25 +30,29 @@
 <a href="https://www.postgresql.org/" style="margin:2px;"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
 <a href="https://www.mongodb.com/" style="margin:2px;"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
 <a href="https://firebase.google.com/" style="margin:2px;"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
-<a href="https://www.ubuntu.com/" style="margin:2px;"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" /></a>
 <a href="https://github.com/" style="margin:2px;"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://webpack.js.org/" style="margin:2px;"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" /></a>
 <a href="https://vitejs.dev/" style="margin:2px;"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /></a>
 <a href="https://git-scm.com/" style="margin:2px;"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
 
+### 🛠️ Operating Systems
+<a href="https://www.ubuntu.com/" style="margin:2px;"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" /></a>
+
 ### 🛠️ DevOps Tools
 
+<a href="https://www.docker.com/" style="margin:2px;"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+<a href="https://kubernetes.io/" style="margin:2px;"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>
+<!--
 <a href="https://aws.amazon.com/" style="margin:2px;"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /></a>
 <a href="https://azure.microsoft.com/" style="margin:2px;"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" /></a>
 <a href="https://cloud.google.com/" style="margin:2px;"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" /></a>
-<a href="https://www.docker.com/" style="margin:2px;"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
-<a href="https://kubernetes.io/" style="margin:2px;"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>
 <a href="https://www.terraform.io/" style="margin:2px;"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" /></a>
 <a href="https://www.jenkins.io/" style="margin:2px;"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" /></a>
 <a href="https://circleci.com/" style="margin:2px;"><img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI" /></a>
 <a href="https://www.ansible.com/" style="margin:2px;"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" /></a>
 <a href="https://grafana.com/" style="margin:2px;"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /></a>
 <a href="https://prometheus.io/" style="margin:2px;"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" /></a>
+-->
 
 </div>
 
@@ -56,20 +60,29 @@
 
 ### 🌐 Connect with Me
 
-<a href="https://linkedin.com/in/your-profile" style="margin:2px;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/your-profile" style="margin:2px;"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:your-email@example.com" style="margin:2px;"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://twitter.com/your-profile" style="margin:2px;"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://linkedin.com/in/themba-mzumara-496330160" style="margin:2px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/ThembaMzumara" style="margin:2px;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:tmzumara3@gmail.com" style="margin:2px;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="mailto:ThembaMzumara@outlook.com" style="margin:2px;">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
+</a>
 
 </div>
 
 <div align="left">
 
-### ⚡ Rapid Fire
+### ⚡ Real Quick
 
-- 🌍 **Located in:** Lilongwe, Malawi.
-- 🌱 **Currently Learning:** Advanced Salesforce administration, MEGA_PACK components.
+- 🌍 **Located in:** Blantyre, Malawi.
+- 🌱 **Currently Learning:** Everything C# and .NET.
+<!-- 
 - 🔄 **Development Motto:** "Fuck it, we ball." 👌
 - 🎮 **Hobbies:** Chess, Traveling, Stargazing.
-
+-->
 </div>

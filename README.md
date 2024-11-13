@@ -1,8 +1,8 @@
-<div align="center">
+<div align="left">
   <img src="path-to-animation-or-gif" alt="..." width="100%" />
 </div>
 
-<div align="center">
+<div align="left">
 
 # 👋 Welcome!
 
@@ -12,7 +12,7 @@
 
 </div>
 
-<div align="center">
+<div align="left">
 
 ### ⚒️ Tech Stack
 
@@ -36,6 +36,9 @@
 <a href="https://vitejs.dev/" style="margin:2px;"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /></a>
 <a href="https://git-scm.com/" style="margin:2px;"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
 
+</div>
+
+~~~
 ### 🛠️ DevOps Tools
 
 <a href="https://aws.amazon.com/" style="margin:2px;"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /></a>
@@ -49,5 +52,3 @@
 <a href="https://www.ansible.com/" style="margin:2px;"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" /></a>
 <a href="https://grafana.com/" style="margin:2px;"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /></a>
 <a href="https://prometheus.io/" style="margin:2px;"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" /></a>
-
-</div>

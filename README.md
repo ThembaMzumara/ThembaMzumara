@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="[https://www.deviantart.com/laspinter/art/Shelter-1120625083](https://www.deviantart.com/laspinter/art/Shelter-1120625083)" alt="..." width="100%" />
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/..." alt="Illustration of a serene digital shelter, evoking tranquility and refuge" width="100%" />
 </div>
 
 <div align="left">

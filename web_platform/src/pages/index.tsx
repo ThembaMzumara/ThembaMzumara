@@ -1,16 +1,11 @@
-import React, { useState } from 'react';
+import React from 'react';
 import profileImage from '../../public/Linus Portrait.jpg';
 import { FaTwitter, FaInstagram, FaLinkedin, FaGithub } from "react-icons/fa";
 import Image from 'next/image';
+import useTheme from './useTheme';
 
 export default function Home() {
-  // State for theme toggle
-  const [isDarkMode, setIsDarkMode] = useState(false);
-
-  // Function to toggle theme
-  const toggleTheme = () => {
-    setIsDarkMode(!isDarkMode);
-  };
+  const [isDarkMode, toggleTheme] = useTheme() as [boolean, () => void]; // Type assertion to ensure correct tuple type
 
   return (
     <div className={`flex items-center justify-center min-h-screen ${isDarkMode ? 'bg-[#262629]' : 'bg-[#d5d5d9]'}`}>

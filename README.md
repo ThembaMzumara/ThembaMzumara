@@ -12,16 +12,16 @@
 <a href="https://linkedin.com/in/themba-mzumara-496330160" style="margin:2px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
--->
-
-<a href="https://linkedin.com/in/themba-mzumara-496330160" style="margin:2px;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tht" height="30" width="40" /></a>
-
 <a href="https://github.com/ThembaMzumara" style="margin:2px;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="mailto:tmzumara3@gmail.com" style="margin:2px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
+-->
+
+<a href="https://linkedin.com/in/themba-mzumara-496330160" style="margin:2px;" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tht" height="30" width="40" /></a>
+
 
 </div>
 

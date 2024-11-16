@@ -2,9 +2,8 @@
 
 # 👋 Welcome!
 **Hi, I’m Themba**
-</div>
 
-<br/>
+</div>
 
 ### 
 <div align="center">

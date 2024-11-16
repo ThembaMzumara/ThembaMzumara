@@ -35,7 +35,7 @@ export default function Home() {
           {/* Social Links */}
           <div className="flex space-x-6">
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/themba-mzumara-496330160/"
               target="_blank"
               rel="noopener noreferrer"
               className={`text-gray-500 hover:text-gray-700 transition text-2xl pt-sans-regular ${isDarkMode ? 'text-white' : 'text-gray-800'}`}
@@ -43,7 +43,7 @@ export default function Home() {
               <FaLinkedin />
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/ThembaMzumara"
               target="_blank"
               rel="noopener noreferrer"
               className={`text-gray-500 hover:text-gray-700 transition text-2xl pt-sans-regular ${isDarkMode ? 'text-white' : 'text-gray-800'}`}

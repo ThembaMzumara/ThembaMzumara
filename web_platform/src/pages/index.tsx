@@ -13,10 +13,10 @@ export default function Home() {
   };
 
   return (
-    <div className={`flex items-center justify-center min-h-screen ${isDarkMode ? 'bg-[#171717]' : 'bg-[#d5d5d9]'}`}>
-      <div className={`relative flex flex-col items-center justify-center h-[300px] px-4 ${isDarkMode ? 'bg-gray-900' : 'bg-gray-700'} shadow-lg rounded-md max-w-[450px]`}>
+    <div className={`flex items-center justify-center min-h-screen ${isDarkMode ? 'bg-[#262629]' : 'bg-[#d5d5d9]'}`}>
+      <div className={`relative flex flex-col items-center justify-center h-[300px] px-4 ${isDarkMode ? 'bg-gray-900' : 'bg-gray-500'} shadow-lg rounded-md max-w-[450px]`}>
         {/* Image Section turned into button */}
-        <button onClick={toggleTheme} className="absolute -top-12">
+        <button onClick={toggleTheme} className="absolute -top-16">
           <Image
             src={profileImage}
             alt="Profile Picture"
@@ -30,7 +30,7 @@ export default function Home() {
         <div className="flex flex-col items-center mt-8 px-4">
           {/* Bio Text */}
           <div className="mb-4 text-center px-4">
-            <p className={`text-sm sm:text-base md:text-lg font-medium leading-relaxed text-justify ${isDarkMode ? 'text-white' : 'text-gray-800'} pt-sans-regular`}>
+            <p className={`text-sm sm:text-base md:text-lg font-medium leading-relaxed text-justify ${isDarkMode ? 'text-white' : 'text-gray-900'} pt-sans-regular`}>
               Just a Full Stack Developer and Software Engineer with a passion for tech. 
               Exploring new ways to build and innovate. 
               Happy to connect and refer!

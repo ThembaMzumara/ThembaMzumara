@@ -1,9 +1,7 @@
 <div align="center">
 
-### 
-**Hi, I’m Themba**
-
 # 👋 Welcome!
+**Hi, I’m Themba**
 
 </div>
 

@@ -1,11 +1,12 @@
 <div align="center">
 
 # 👋 Welcome!
-### **Hi, I’m Themba**
+**Hi, I’m Themba**
 </div>
 
 <br/>
 
+### 
 <div align="center">
 
 <!--
@@ -24,6 +25,7 @@
 
 
 </div>
+### 
 
 
 <!--

@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import profileImage from '../../public/Linus Portrait.jpg';
 import { FaTwitter, FaInstagram, FaLinkedin, FaGithub } from "react-icons/fa";
 import Image from 'next/image';
@@ -7,13 +7,26 @@ import { developerStatuses } from '../resources/developerStatus';
 
 export default function Home() {
   const [isDarkMode, toggleTheme] = useTheme() as [boolean, () => void]; // Type assertion to ensure correct tuple type
-  const [currentStatus] = useState(developerStatuses[0]); // Default status, change index as needed
+  const [currentStatus, setCurrentStatus] = useState(developerStatuses[0]); // Default status, change index as needed
+
+  // Rotate developer status every 4 seconds
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setCurrentStatus((prevStatus) => {
+        const nextIndex = (developerStatuses.indexOf(prevStatus) + 1) % developerStatuses.length;
+        return developerStatuses[nextIndex];
+      });
+    }, 5000);
+
+    // Clear the interval when the component is unmounted
+    return () => clearInterval(interval);
+  }, []);
 
   return (
     <div className={`flex items-center justify-center min-h-screen ${isDarkMode ? 'bg-[#262629]' : 'bg-[#d5d5d9]'}`}>
       <div className={`relative flex flex-col items-center justify-center px-4 -pt-2 pb-8 max-w-[415px] ${isDarkMode ? 'bg-gray-900' : 'bg-gray-500'} shadow-lg rounded-sm`}>
         {/* Profile Image Section */}
-        <div className="relative -top-12"> {/* Adjust top to make it halfway */}
+        <div className="relative -top-16">
           <button onClick={toggleTheme} className="relative">
             <Image
               src={profileImage}
@@ -21,6 +34,7 @@ export default function Home() {
               className="w-36 h-36 rounded-full shadow-lg border-4 border-white object-cover"
               width={144}
               height={144}
+              priority
             />
             {/* Developer Status Badge */}
             <div
@@ -33,8 +47,8 @@ export default function Home() {
         </div>
 
         {/* User Title Section (Centered) */}
-        <div className="text-center -mt-600">
-          <h3 className={`text-xl font-semibold ${isDarkMode ? 'text-white' : 'text-gray-900'}`}>
+        <div className="text-center mt-0">
+          <h3 className={`text-lg font-semibold ${isDarkMode ? 'text-white' : 'text-gray-900'}`}>
             Full Stack Developer & Software Engineer
           </h3>
         </div>
@@ -94,4 +108,3 @@ export default function Home() {
     </div>
   );
 }
-

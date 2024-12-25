@@ -14,13 +14,11 @@ const ThemeProvider: React.FC<{ children: ReactNode }> = ({ children }) => {
   const [theme, setTheme] = useState<Theme>('light');
 
   useEffect(() => {
-    // Get the theme from localStorage or default to light
     const savedTheme = localStorage.getItem('theme') as Theme;
     if (savedTheme) {
       setTheme(savedTheme);
     }
 
-    // Update CSS custom properties for the root element (html or body)
     updateRootTheme(savedTheme || 'light');
   }, []);
 
@@ -35,10 +33,10 @@ const ThemeProvider: React.FC<{ children: ReactNode }> = ({ children }) => {
   };
 
   const toggleTheme = () => {
-    const newTheme = theme === 'light' ? 'dark' : 'light';
+    const newTheme = theme === 'dark' ? 'light' : 'dark';
     setTheme(newTheme);
-    localStorage.setItem('theme', newTheme); // Save to localStorage
-    updateRootTheme(newTheme); // Update CSS custom properties
+    localStorage.setItem('theme', newTheme); 
+    updateRootTheme(newTheme);
   };
 
   return (

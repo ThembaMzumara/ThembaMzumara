@@ -5,36 +5,57 @@ import { developerStatuses } from './resources/developerStatus';
 import './App.css';
 
 const App: React.FC = () => {
-  const themeContext = useContext(ThemeContext);  // Always call the hook here, not conditionally
+  const themeContext = useContext(ThemeContext);  
   const [currentStatus, setCurrentStatus] = useState(developerStatuses[0]);
-  const [layout, setLayout] = useState('layout1');
+  const [layout, setLayout] = useState('layout0');
 
-  // Ensure themeContext is defined before proceeding with the rest of the code
   if (!themeContext) {
-    return null;  // You can still return null, just ensure this logic is outside the hook calls
+    return null;  
   }
 
   const { theme, toggleTheme } = themeContext;
 
   // eslint-disable-next-line react-hooks/rules-of-hooks
-  useEffect(() => {
-    const interval = setInterval(() => {
-      setCurrentStatus((prevStatus) => {
-        const nextIndex = (developerStatuses.indexOf(prevStatus) + 1) % developerStatuses.length;
-        return developerStatuses[nextIndex];
-      });
-    }, 5000);
+  // useEffect(() => {
+  //   const interval = setInterval(() => {
+  //     setCurrentStatus((prevStatus) => {
+  //       const nextIndex = (developerStatuses.indexOf(prevStatus) + 1) % developerStatuses.length;
+  //       return developerStatuses[nextIndex];
+  //     });
+  //   }, 5000);
 
-    // Rotate layouts every 10 seconds
-    const layoutInterval = setInterval(() => {
-      setLayout((prevLayout) => (prevLayout === 'layout1' ? 'layout2' : 'layout1'));
-    }, 10000);
+  //   const layoutInterval = setInterval(() => {
+  //     setLayout((prevLayout) => {
+  //       if (prevLayout === 'layout1') {
+  //         return 'layout2';
+  //       } else if (prevLayout === 'layout2') {
+  //         return 'layout0';
+  //       } else {
+  //         return 'layout1';
+  //       }
+  //     });
+  //   }, 10000);
 
-    return () => {
-      clearInterval(interval);
-      clearInterval(layoutInterval);
-    };
-  }, []); // Ensure this effect runs only once on mount
+  //   return () => {
+  //     clearInterval(interval);
+  //     clearInterval(layoutInterval);
+  //   };
+  // }, []); 
+
+  
+  // Layout 0 (Under construction message)
+  const layout0 = (
+    <div className={`flex items-center justify-center min-h-screen ${theme === 'dark' ? 'bg-[#262629]' : 'bg-[#d5d5d5]'}`}>
+      <div className={`text-center p-8 bg-white shadow-lg rounded-lg ${theme === 'dark' ? 'text-white' : 'text-gray-800'}`}>
+        <h2 className={`text-3xl font-semibold ${theme === 'dark' ? 'text-[#262629]' : 'text-gray-800'}`}>
+          Platform Under Construction
+        </h2>
+        <p className={`mt-4 text-lg ${theme === 'dark' ? 'text-[#262629]' : 'text-gray-600'}`}>
+          We are currently working on the platform. Stay tuned for updates!
+        </p>
+      </div>
+    </div>
+  );
 
   // Layout 1 (current layout)
   const layout1 = (
@@ -85,7 +106,13 @@ const App: React.FC = () => {
 
   return (
     <div className={`flex items-center justify-center min-h-screen ${theme === 'dark' ? 'bg-[#262629]' : 'bg-[#d5d5d5]'}`}>
-      {layout === 'layout1' ? layout1 : layout1} {/* Add another layout option if needed */}
+      {layout === 'layout0' ? layout0 : layout === 'layout1' ? layout1 : layout1}
+      
+      {/* Buttons to manually switch layouts */}
+      {/* <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2">
+        <button onClick={() => setLayout('layout0')} className="px-4 py-2 bg-blue-500 text-white rounded mr-4">Layout 0</button>
+        <button onClick={() => setLayout('layout1')} className="px-4 py-2 bg-blue-500 text-white rounded">Layout 1</button>
+      </div> */}
     </div>
   );
 }

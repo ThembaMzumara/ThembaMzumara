@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="./LinusPortrait.jpg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link href="https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet" />
+    <title>ThembaMzumara</title>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+
+    <script>
+      document.title = "ThembaMzumara";
+
+      let counter = 0;
+
+      setInterval(() => {
+        document.title = `You've been here for ${counter++} seconds`;
+      }, 3000);
+
+      setTimeout(() => {
+        document.title = "Hope you're enjoying your time here!";
+      }, 10000);
+      
+    </script>
+  </body>
+</html>

@@ -46,11 +46,11 @@ const App: React.FC = () => {
   // Layout 0 (Under construction message)
   const layout0 = (
     <div className={`flex items-center justify-center min-h-screen ${theme === 'dark' ? 'bg-[#262629]' : 'bg-[#d5d5d5]'}`}>
-      <div className={`text-center p-8 bg-white shadow-lg rounded-lg ${theme === 'dark' ? 'text-white' : 'text-gray-800'}`}>
-        <h2 className={`text-3xl font-semibold ${theme === 'dark' ? 'text-[#262629]' : 'text-gray-800'}`}>
+      <div className={`text-center p-8 bg-white shadow-lg rounded-lg ${theme === 'dark' ? 'text-white' : 'text-gray-800'} max-w-full sm:max-w-md`}>
+        <h2 className={`text-2xl sm:text-3xl font-semibold ${theme === 'dark' ? 'text-[#262629]' : 'text-gray-800'}`}>
           Platform Under Construction
         </h2>
-        <p className={`mt-4 text-lg ${theme === 'dark' ? 'text-[#262629]' : 'text-gray-600'}`}>
+        <p className={`mt-4 text-base sm:text-lg ${theme === 'dark' ? 'text-[#262629]' : 'text-gray-600'}`}>
           We are currently working on the platform. Stay tuned for updates!
         </p>
       </div>

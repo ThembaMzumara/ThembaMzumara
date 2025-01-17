@@ -51,7 +51,7 @@ const App: React.FC = () => {
           Platform Under Construction
         </h2>
         <p className={`mt-4 text-base sm:text-lg ${theme === 'dark' ? 'text-[#262629]' : 'text-gray-600'}`}>
-          We are currently working on the platform. Stay tuned for updates!
+          I am currently working on the platform. Stay tuned for updates!
         </p>
       </div>
     </div>

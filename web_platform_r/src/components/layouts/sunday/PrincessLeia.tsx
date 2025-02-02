@@ -13,7 +13,7 @@ const PrincessLeia: React.FC = () => {
   }, []);
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen bg-blue-500 text-white text-center p-8">
+    <div className="flex flex-col items-center justify-center min-h-screen text-white text-center p-8">
       <p className="text-xl italic mb-4">
         “Help me, Obi-Wan Kenobi. You’re my only hope.” - Princess Leia
       </p>

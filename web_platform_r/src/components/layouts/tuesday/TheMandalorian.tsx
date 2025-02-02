@@ -13,7 +13,7 @@ const TheMandalorian: React.FC = () => {
   }, []);
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen bg-slate-800 text-white text-center p-8">
+    <div className="flex flex-col items-center justify-center min-h-screen text-white text-center p-8">
       <p className="text-xl italic mb-4">
         “This is the way.” - The Mandalorian
       </p>

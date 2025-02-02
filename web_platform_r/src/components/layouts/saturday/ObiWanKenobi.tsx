@@ -13,7 +13,7 @@ const ObiWanKenobi: React.FC = () => {
   }, []);
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen bg-gray-800 text-white text-center p-8">
+    <div className="flex flex-col items-center justify-center min-h-screen text-white text-center p-8">
       <p className="text-xl italic mb-4">
         “The Force will be with you. Always.” - Obi-Wan Kenobi
       </p>

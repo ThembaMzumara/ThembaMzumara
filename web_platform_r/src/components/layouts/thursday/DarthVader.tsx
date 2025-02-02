@@ -13,7 +13,7 @@ const DarthVader: React.FC = () => {
   }, []);
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen bg-black text-white text-center p-8">
+    <div className="flex flex-col items-center justify-center min-h-screen text-white text-center p-8">
       <p className="text-xl italic mb-4">
         “I am your father.” - Darth Vader
       </p>

@@ -9,7 +9,7 @@ import TheMandalorian from '../components/layouts/tuesday/TheMandalorian';
 import AhsokaTano from '../components/layouts/wednesday/AhsokaTano';
 
 export const layoutBank: LayoutBank = {
-  1: [
+  0: [
     {
       id: 'master-yoda',
       component: MasterYoda,
@@ -23,12 +23,12 @@ export const layoutBank: LayoutBank = {
       theme: 'dark',
     },
   ], // Sunday layouts
-  0: [
+  1: [
     {
       id: 'obi-wan-kenobi',
       component: ObiWanKenobi,
       dayOfWeek: 1,
-      theme: 'light',
+      theme: 'dark',
     },
   ], // Monday layouts
   2: [
@@ -60,7 +60,7 @@ export const layoutBank: LayoutBank = {
       id: 'han-solo',
       component: HanSolo,
       dayOfWeek: 5,
-      theme: 'light',
+      theme: 'dark',
     },
   ], // Friday layouts
   6: [
@@ -68,7 +68,7 @@ export const layoutBank: LayoutBank = {
       id: 'princess-leia',
       component: PrincessLeia,
       dayOfWeek: 6,
-      theme: 'light',
+      theme: 'dark',
     },
   ], // Saturday layouts
 };

@@ -1,0 +1,2 @@
+export const DEPLOYMENT_TIMESTAMP = process.env.REACT_APP_DEPLOYMENT_TIMESTAMP;
+export const AUTO_SWITCH_LAYOUTS = true;

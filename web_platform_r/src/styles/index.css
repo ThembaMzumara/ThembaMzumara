@@ -34,7 +34,16 @@ body {
   padding: 0;
   font-family: 'PT Sans', sans-serif;
   color: hsla(0, 0%, 0%, 0.812);
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
 
 .pt-sans-regular {
   font-family: "PT Sans", sans-serif;

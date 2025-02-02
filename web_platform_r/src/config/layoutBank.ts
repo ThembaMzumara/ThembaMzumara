@@ -9,7 +9,7 @@ import TheMandalorian from '../components/layouts/tuesday/TheMandalorian';
 import AhsokaTano from '../components/layouts/wednesday/AhsokaTano';
 
 export const layoutBank: LayoutBank = {
-  0: [
+  1: [
     {
       id: 'master-yoda',
       component: MasterYoda,
@@ -23,7 +23,7 @@ export const layoutBank: LayoutBank = {
       theme: 'dark',
     },
   ], // Sunday layouts
-  1: [
+  0: [
     {
       id: 'obi-wan-kenobi',
       component: ObiWanKenobi,

@@ -4,6 +4,7 @@ import { LayoutManager } from './components/LayoutManager';
 import { layoutBank } from './config/layoutBank';
 import { ThemeProvider } from './contexts/ThemeContext';
 import { LayoutProvider } from './contexts/LayoutContext';
+import './styles/index.css'
 
 const App: React.FC = () => {
   const deploymentTimestamp = process.env.REACT_APP_DEPLOYMENT_TIMESTAMP 
